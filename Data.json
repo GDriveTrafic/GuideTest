@@ -1,0 +1,48 @@
+[
+    {
+        
+        
+    "admobMediation" : true,
+    "admobADS" : true,
+    "interid": "ca-app-pub-5940305789942506/5790173349",
+    "bannerid": "ca-app-pub-5940305789942506/28006978834",
+    "nativeAdmobId" : "ca-app-pub-5940305789942506/3481696099",
+    
+    "facebookADS" : false,
+    "fan_inter": "140549657911283_140549697911279",
+    "fan_banner": "140549657911283_140549701244612",
+    "fan_banner_big": "",
+    "fan_native": "140549657911283_140549707911278",
+        
+        
+    "title": "Getting started",
+    "text": "Hi there, welcome to StreamYard!\nThese docs will help you get started, but if you prefer videos, we have a Video Tutorial Series on YouTube.\nStreamYard is a live video production tool in your browser. There are no downloads and you don’t need anything other than a computer with a mic and camera to get going.\nTo get started,\n1-Launch Chrome or another supported browser",
+    "text2": "2-Sign up for StreamYard if you haven’t already\n3-Connect a destination to stream to\n4-Create a broadcast and go live\nThat’s all you need to get started!\nIf you’re looking to have the best experience possible, you should check out the devices and equipment section."
+  },
+  {
+    "title": "Devices and equipment",
+    "text": "With StreamYard, most of the work happens on our computers, not yours. Your 5-year-old laptop, Chromebook, or desktop will all work just fine! But, if you’re serious about streaming (and we hope you are!), we recommend investing in a high quality mic and webcam. A pair of headphones is also a good idea – this will reduce the potential for echo if you are bringing on guests.\nWe are big fans of the following microphone and webcam:\n-Yeti Microphone\n-C920 Webcam",
+    "text2": "<b>Browsers</b>\nChrome, Firefox and Opera all work with StreamYard. Unfortunately, other browsers, like Safari, do not support our technology yet. We recommend Chrome for the best experience.\n<b>Internet</b>\nStreaming requires a lot of data, but your current ISP or 4G provider should work fine. We recommend that you hardwire (ethernet) to your router. WiFi will work, but not as well."
+  },
+  {
+    "title": "My mic doesn't work",
+    "text": "<b>Troubleshooting mic issues</b>\n1. Are you using the correct mic? Click the settings button to check.\n2. Are you using a headset or mic with a mute button? Make sure it’s not muted.",
+    "text2": "3. Is another program using your mic (Skype, Zoom)? Quit those then refresh the page.\n4. Did you mute your mic in your computer settings?\n5. Restart your browser. If that doesn’t work, restart your device. This fixes most issues."
+  },
+    {
+    "title": "Stream to your own website",
+    "text": "Wish you could to live stream to your own website? You can with StreamYard!\nThere are number of ways to accomplish this – in this tutorial we’re going to use YouTube.\nNote: If your YouTube account was created after August 2016, you need monetization enabled and an approved AdSense account linked to your YouTube account. Check the YouTube Features page to confirm live streaming and embedding is enabled as well.",
+    "text2": "<b>Embed a YouTube Live stream</b>\nFollow these steps to embed a YouTube Live stream on your website:\n1. Add your YouTube channel on StreamYard. You can do this from your dashboard.\n2. Create a broadcast. Then on the broadcast, click on “More”, then “View on YouTube”. view on youtube\n3. On YouTube, right click on the video section and click “Copy embed code”. youtube embed code\n4. Paste the embed code onto your website. Your viewers will see the stream on your website when you go live on StreamYard! Note that the embed code will be different for each broadcast."
+
+  },
+  {
+    "title": "Screen Sharing",
+    "text": "Screen sharing is an awesome way to present a slideshow or show a video. Both you and your guests can share a screen. You can share images, videos, PDFs, and more.\nScreen sharing works best when you have two monitors – two monitors make it easy to click from slide to slide while you’re still controlling the live stream on the other monitor.",
+    "text2": "<b>How to Screen Share</b>\nIn the broadcast studio, there’s a toolbar at the bottom of the screen. Click the “Share Screen” button. Your guests have this option as well. Screen Share Button\nThe screen sharing tips will pop up on screen. Click the blue “Share Screen” button.\nAnother popup will appear with three options:\nYour Entire Screen: Shares your entire desktop screen\nApplication Window: Lets you choose one application at a time; great for sharing a powerpoint or keynote.\nChrome Tab: Lets you share ANY file from your computer in a Chrome Tab. Open a new tab, drag the file into Chrome from your computer desktop or folder. Your cursor displays a little ‘+’ sign if the action is successful. This is the best way to share audio Screen Share Selection\nNOTE: To share audio from your screen you MUST click the “Share Audio” button.\nThen click Share, and your screen will be added to your show. Use the layout buttons under the screen to change how the screen appears alongside you and your guests. Click the tile that lights up blue to REMOVE the screen share."
+  },
+  {
+    "title": "HD Streaming (1080p)",
+    "text": "On the professional plan, you can stream in high definition (1080p). But we don’t recommend 1080p unless you and your guests have a solid internet connection.\n",
+    "text2": "<b>Make sure you have a solid internet connection</b>\nYou’ll want an upload speed of at least 4 Mbps. You can test your speed here. Make sure you’re looking at upload speed, not download.\nWe strongly recommend plugging in directly to your router. Wifi isn’t very stable and can cause issues even when your internet is fast.\nEncourage your guests to use a computer if possible (instead of mobile), and plug in to their router."
+  }
+]
